@@ -1,2 +1,3 @@
 # COMP4163_NNDL
-Material in COMP4163_Neural Network and Deep Learning
+Tutorial materials for the COMP4163_Neural Network and Deep Learning
+Please do not cheat if you are doing NNDL tutorial.
